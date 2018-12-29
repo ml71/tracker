@@ -1,0 +1,12 @@
+C:\Users\Maggie\Documents\Tracker\Tracker\Tracker\bin\Debug\netstandard2.0\Tracker.deps.json
+C:\Users\Maggie\Documents\Tracker\Tracker\Tracker\bin\Debug\netstandard2.0\Tracker.dll
+C:\Users\Maggie\Documents\Tracker\Tracker\Tracker\bin\Debug\netstandard2.0\Tracker.pdb
+C:\Users\Maggie\Documents\Tracker\Tracker\Tracker\obj\Debug\netstandard2.0\Tracker.csprojAssemblyReference.cache
+C:\Users\Maggie\Documents\Tracker\Tracker\Tracker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Maggie\Documents\Tracker\Tracker\Tracker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Maggie\Documents\Tracker\Tracker\Tracker\obj\Debug\netstandard2.0\Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Maggie\Documents\Tracker\Tracker\Tracker\obj\Debug\netstandard2.0\Tracker.AssemblyInfoInputs.cache
+C:\Users\Maggie\Documents\Tracker\Tracker\Tracker\obj\Debug\netstandard2.0\Tracker.AssemblyInfo.cs
+C:\Users\Maggie\Documents\Tracker\Tracker\Tracker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Maggie\Documents\Tracker\Tracker\Tracker\obj\Debug\netstandard2.0\Tracker.dll
+C:\Users\Maggie\Documents\Tracker\Tracker\Tracker\obj\Debug\netstandard2.0\Tracker.pdb
